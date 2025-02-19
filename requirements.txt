@@ -1,0 +1,4 @@
+django
+djangorestframewor
+psycopg2-binary
+python-dotenv
